@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+hate_speech_detector/__init__.py
+hate_speech_detector/model.py
+hate_speech_detector/preprocessing.py
+hate_speech_detector.egg-info/PKG-INFO
+hate_speech_detector.egg-info/SOURCES.txt
+hate_speech_detector.egg-info/dependency_links.txt
+hate_speech_detector.egg-info/requires.txt
+hate_speech_detector.egg-info/top_level.txt

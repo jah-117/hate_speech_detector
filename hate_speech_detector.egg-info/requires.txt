@@ -1,0 +1,4 @@
+nltk
+regex
+os
+joblib

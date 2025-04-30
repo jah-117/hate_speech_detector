@@ -1,11 +1,19 @@
-<<<<<<< HEAD
-# hate_speech_detector
-A Python package to detect hate speech in text using a simple ML model.
-=======
-<<<<<<< HEAD
-# hate_speech_detector
-A Python package to detect hate speech in text using a simple ML model.
-=======
+Metadata-Version: 2.1
+Name: hate-speech-detector
+Version: 0.1.1
+Summary: A simple hate speech detection model using machine learning.
+Home-page: UNKNOWN
+Author: Jahfar Muhammed
+Author-email: jahfarbinmuhammed117@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Hate Speech Detector
 
 A lightweight Python package to detect hate speech in text using a machine learning model.
@@ -58,5 +66,4 @@ This package was developed as a **college major project** with the goal of creat
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
->>>>>>> 2fd4587 (Initial commit: Hate speech detector)
->>>>>>> 5f48726 (Initial commit: Hate speech detector v0.1.1)
+
