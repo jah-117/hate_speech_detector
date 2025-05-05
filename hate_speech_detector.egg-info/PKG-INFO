@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: hate_speech_detector
-Version: 0.1.2
+Version: 0.2.1
 Summary: A simple hate speech detection model using machine learning.
 Author: Jahfar Muhammed
 Author-email: jahfarbinmuhammed117@gmail.com
