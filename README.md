@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# hate_speech_detector
-A Python package to detect hate speech in text using a simple ML model.
-=======
-<<<<<<< HEAD
-# hate_speech_detector
-A Python package to detect hate speech in text using a simple ML model.
-=======
 # Hate Speech Detector
 
 A lightweight Python package to detect hate speech in text using a machine learning model.
@@ -58,5 +50,3 @@ This package was developed as a **college major project** with the goal of creat
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
->>>>>>> 2fd4587 (Initial commit: Hate speech detector)
->>>>>>> 5f48726 (Initial commit: Hate speech detector v0.1.1)
