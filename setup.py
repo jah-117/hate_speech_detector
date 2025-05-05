@@ -10,7 +10,6 @@ setup(
         # or whichever packages you used
         "nltk",
         "regex",
-        "os",
         "joblib",
     ],
     author="Jahfar Muhammed",
